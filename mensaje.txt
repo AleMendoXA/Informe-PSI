@@ -1,2 +1,0 @@
-Primer archivo de la práctica de Git
-Segunda línea agregada al proyectos
